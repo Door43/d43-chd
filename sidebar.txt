@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[chd:home|Door43 (chd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-chd|d43-chd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-chd/archive/master.zip|d43-chd.zip]]
+
+**Recent Changes**
+{{changes>ns = chd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/chd|Ethnologue data]]
+
